@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleBMI</string>
+    <string name="text_title">초간단 BMI 계산기</string>
+    <string name="edit_hint1">홍길동</string>
+    <string name="edit_hint2">단위 : cm</string>
+    <string name="edit_hint3">단위 : kg</string>
+    <string name="edit1">성명 : </string>
+    <string name="edit2">신장 : </string>
+    <string name="edit3">체중 : </string>
+    <string name="btnResult">계산 결과</string>
+    <string name="textResult">BMI 측정 결과 : </string>
+</resources>
