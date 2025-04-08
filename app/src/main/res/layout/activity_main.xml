@@ -18,7 +18,6 @@
         android:textSize="@dimen/textSize_large" />
 
     <TextView
-        android:id="@id/edit1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/edit1"
@@ -31,11 +30,10 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="@dimen/margin_medium"
         android:hint="@string/edit_hint1"
-        android:inputType="numberDecimal"
+        android:inputType="text"
         android:textSize="@dimen/textSize_medium"/>
 
     <TextView
-        android:id="@id/edit2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/edit2"
@@ -51,10 +49,9 @@
         android:textSize="@dimen/textSize_medium"/>
 
     <TextView
-        android:id="@id/edit2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/edit2"
+        android:text="@string/edit3"
         android:textSize="@dimen/textSize_medium"/>
 
     <EditText
@@ -80,4 +77,8 @@
         android:text="@string/textResult"
         android:textColor="@color/red"
         android:textSize="@dimen/textSize_medium"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
 </LinearLayout>
