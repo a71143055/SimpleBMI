@@ -79,6 +79,7 @@
         android:textSize="@dimen/textSize_medium"/>
 
     <ImageView
+        android:src="@drawable/ic_launcher_fat"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"/>
 </LinearLayout>
